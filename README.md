@@ -56,7 +56,7 @@ WeatherNow/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone [YOUR_GITHUB_REPOSITORY_URL](https://github.com/thoufeekt361/Weather-App)
 ```
 
 Navigate to the project folder:
